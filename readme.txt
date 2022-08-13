@@ -1,5 +1,9 @@
 This is my demo for practice project for jenkins and maven 
 
+## USE YU=OUR CREDENTIALS FOR ACCESS THESE FILES ##
+
+-------------------THANK YOU-------------------------
+
 # ========================NEXUS==============================
 
 <distributionManagement>
