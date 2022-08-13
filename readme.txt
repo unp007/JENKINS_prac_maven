@@ -1,4 +1,4 @@
-This is my demo for onmob
+This is my demo for practice project for jenkins and maven 
 
 # ========================NEXUS==============================
 
